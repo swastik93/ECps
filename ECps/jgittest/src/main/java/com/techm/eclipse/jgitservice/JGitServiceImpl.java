@@ -195,7 +195,7 @@ public class JGitServiceImpl implements JGitService {
 	
 	
 
-	@Override
+	/*@Override
 	public boolean validateUser(String username, String password) {
 		
 		if(username != null && password != null) {
@@ -213,7 +213,7 @@ public class JGitServiceImpl implements JGitService {
 		}
 		
 		return false;
-	}
+	}*/
 
 	@Override
 	public void pushToGit(File localPath1,File localPath2, String path) {

@@ -16,6 +16,6 @@ public interface JGitService {
 	
 	public void pushToGit(File localPath1,File localPath2, String path);
 	
-	public boolean validateUser(String username, String password);
+	//public boolean validateUser(String username, String password);
 
 }

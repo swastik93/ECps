@@ -43,7 +43,7 @@ public class JgitAdapter {
 		System.out.println("\n\t 2. ACCESS REPOSITORY");
 		System.out.println("\n\t 3. CLONE REPOSITORY");
 		System.out.println("\n\t 4. CLONE REPOSITORY WITH BRANCH");
-		System.out.println("\n\t 5. PISH TO GIT HUB");
+		System.out.println("\n\t 5. PUSH TO GIT HUB");
 		System.out.println("\nEnter your choice : ");
 		int input = sc.nextInt();
 
